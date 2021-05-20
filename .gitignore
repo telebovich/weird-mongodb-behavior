@@ -1,0 +1,5 @@
+.vscode
+bin/
+obj/
+Bot/appsettings.json
+Bot/appsettings.Development.json
